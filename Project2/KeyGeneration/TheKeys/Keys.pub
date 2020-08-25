@@ -1,0 +1,2 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDF9kVj5P3veUSsOcJPbfPkpBiStEvkYzbgFz794Le3vtR/8tHntIfRFXBIZssKpdiH0cX/Z5oy5EvMJnSqY8jA/e+jqm4X7EGYDmGBwUltAekiSOpfbGUYPK/gyq9y/qIqsEeg0u24vGf8htdKDpaHA5pIgT0MADrFCJguah1GKV0oQ4gy1GVBQV04+gmgHXf7zP5CLD4wJdpQLmPgv5/81RnI3LoHJeNyqVcBw+v/qT7m8CTXI1NKZlE+sgsmdDAxzLFmtrY9UQBCXIE5hpHPHqcPOecAoo5p+D4GBEjx2eX0wglSHsUZZljlTrSrYqfSYQYcw7nFoywhg8d0CFRP solotempo@Tigers-MacBook-Pro.local
+ssh-keygen -e -m PEM -f Keys.pub > Pubkeys.pub
