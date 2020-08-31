@@ -1,4 +1,4 @@
-# Cybersecurity_project2
+# Private and Public Key Generation
 CSCI 3404 Intro to Cybersecurity
 
 1. By typing: `ssh-keygen -t rsa` into Terminal can generate RSA keys.
